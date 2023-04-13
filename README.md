@@ -1,5 +1,5 @@
 # UI-UX-1
-a website describing about discovering NFts that includes selling, buying and value of krypto portfolio. 
+a website that describes about discovering of NFTs by selling, buying.
 ##screenshot
 ![Desktop - 1](https://user-images.githubusercontent.com/130703443/231883576-95c5d7d0-2b5c-4354-8681-c931448852d6.png) 
 ##link
